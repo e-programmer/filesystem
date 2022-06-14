@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/Folder-Open-icon.png</file>
+        <file>icons/kisspng-computer-icons-clip-art-5adc80de0b64e9.9733979215244003500467.png</file>
+        <file>icons/dlf.pt-folder-png-213538.png</file>
+        <file>icons/unnamed.png</file>
+        <file>icons/MainWindowIcon.png</file>
+        <file>icons/foldername.png</file>
+        <file>icons/add.png</file>
+        <file>icons/add-file.png</file>
+        <file>icons/fileiconwindows.png</file>
+        <file>icons/copy_icon-removebg-preview.png</file>
+        <file>icons/768px-Gnome-edit-paste.svg-removebg-preview.png</file>
+        <file>icons/cancel-512-removebg-preview.png</file>
+        <file>icons/143-1430037_go-back-arrow-back-icon-removebg-preview.png</file>
+        <file>icons/free-tree-icon-1578-thumb.png</file>
+        <file>icons/pngtree-simple-green-big-tree-background-material-image_141050.jpg</file>
+        <file>icons/renamefile.png</file>
+        <file>icons/cut.ico</file>
+        <file>icons/clipart684867.png</file>
+        <file>icons/back-removebg-preview.png</file>
+        <file>icons/clipart1146204.png</file>
+        <file>icons/open.png</file>
+        <file>icons/mm-removebg-preview.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+debug/actualmainwindow.o
+debug/displaytree.o
+debug/file.o
+debug/filesystem.o
+debug/folder.o
+debug/main.o
+debug/mainwindow.o
+debug/window2.o
+debug/window3.o
+debug/qrc_Resource.o
+debug/moc_actualmainwindow.o
+debug/moc_displaytree.o
+debug/moc_mainwindow.o
+debug/moc_window2.o
+debug/moc_window3.o

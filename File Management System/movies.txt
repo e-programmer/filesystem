@@ -1,0 +1,30 @@
+movies
+*horror
+**grudge.txt
+**the ring
+**walking dead
+***ep1.txt
+***ep2.txt
+***ep3.txt
+*comedy
+**friends.txt
+**the office.txt
+**B99.txt
+*action
+**mad max.txt
+**xmen
+***first class.txt
+***days of future past.txt
+*scifi
+**the maze runner.txt
+**the hunger games
+***mockingjay.txt
+***catching fire.txt
+**xmen
+***first class.txt
+***days of future past.txt
+**fav
+***the maze runner.txt
+***xmen
+****first class.txt
+****days of future past.txt

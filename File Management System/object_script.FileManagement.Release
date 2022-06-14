@@ -1,0 +1,15 @@
+release/actualmainwindow.o
+release/displaytree.o
+release/file.o
+release/filesystem.o
+release/folder.o
+release/main.o
+release/mainwindow.o
+release/window2.o
+release/window3.o
+release/qrc_Resource.o
+release/moc_actualmainwindow.o
+release/moc_displaytree.o
+release/moc_mainwindow.o
+release/moc_window2.o
+release/moc_window3.o
